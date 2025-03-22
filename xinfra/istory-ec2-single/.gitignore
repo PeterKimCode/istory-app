@@ -1,0 +1,7 @@
+.terraform
+.terraform.lock.hcl
+.terraform.tfstate
+.terraform.tfstate.backup
+create-secret.sh
+create-secret-prod.sh
+create-secret-dev.sh
